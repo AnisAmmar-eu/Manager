@@ -1,7 +1,0 @@
-C:\Users\Anis\source\repos\Meet\MeetingManager\MeetingManager\obj\Debug\net6.0\MeetingManager.csproj.AssemblyReference.cache
-C:\Users\Anis\source\repos\Meet\MeetingManager\MeetingManager\obj\Debug\net6.0\MeetingManager.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Anis\source\repos\Meet\MeetingManager\MeetingManager\obj\Debug\net6.0\MeetingManager.AssemblyInfoInputs.cache
-C:\Users\Anis\source\repos\Meet\MeetingManager\MeetingManager\obj\Debug\net6.0\MeetingManager.AssemblyInfo.cs
-C:\Users\Anis\source\repos\Meet\MeetingManager\MeetingManager\obj\Debug\net6.0\MeetingManager.csproj.CoreCompileInputs.cache
-C:\Users\Anis\source\repos\Meet\MeetingManager\MeetingManager\obj\Debug\net6.0\MeetingManager.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Anis\source\repos\Meet\MeetingManager\MeetingManager\obj\Debug\net6.0\MeetingManager.MvcApplicationPartsAssemblyInfo.cache
